@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Angular
+node_modules/
+.angular/
+dist/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# ZIP files
+*.zip
+# ChromaDB
+chroma_db/
